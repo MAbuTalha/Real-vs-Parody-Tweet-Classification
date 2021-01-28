@@ -1,6 +1,7 @@
 # Real-vs-Parody-Tweet-Classification
 Uploaded dataset have tweet_raw column and Label column.
-For dataset contact us at talharamzan.tr@gmail.com
+
+For detailed / full dataset contact us at talharamzan.tr@gmail.com
 
 Summary Article at 
 
